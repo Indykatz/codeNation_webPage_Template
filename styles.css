@@ -1,0 +1,17 @@
+/* the body of the page */
+body {
+  background-color: lightyellow;
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  color: blue;
+  font-size: 20px;
+}
