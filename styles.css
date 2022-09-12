@@ -3,15 +3,17 @@ body {
   background-color: lightyellow;
 }
 
+/* header 1 tag */
 h1 {
   color: blue;
 }
 
-h2 {
-  text-align: center;
+/* paragraph tag */
+p {
+  font-size: 20px;
 }
 
-p {
-  color: blue;
-  font-size: 20px;
+/* Syling is class names */
+.navbar_styles {
+  text-align: center;
 }
